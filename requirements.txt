@@ -1,0 +1,9 @@
+# This is the requirements.txt file listing all necessary libraries and their versions used in the screening task.
+
+numpy==2.2.6
+tensorflow==2.20.0
+pandas==2.3.2
+scikit-learn==1.7.1
+matplotlib==3.10.6
+seaborn==0.13.2
+keras==3.11.3
